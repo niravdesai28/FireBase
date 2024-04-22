@@ -64,9 +64,9 @@ class _CreateAccState extends State<CreateAcc> {
                 ), 
               ), 
               SizedBox( 
-                height: 15, 
+                height: 15,
               ), 
-              Text('Phone No'), 
+              Text('Phone No '), 
               Container( 
                 padding: EdgeInsets.symmetric(horizontal: 15), 
                 decoration: BoxDecoration( 
